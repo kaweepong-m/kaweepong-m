@@ -1,9 +1,5 @@
 ### Hi there 👋
-- Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 <!--
 **kaweepong-m/kaweepong-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
