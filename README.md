@@ -11,9 +11,9 @@
 | 6 | Event-Management | [Link1](https://github.com/thisnat/event-management) | [Link2](https://github.com/thisnat/event-management-server) |
 ---
 #### All Workshops
-| No. | Name | Link1 | Link2 |
+| No. | Name | Link1 | Link2 | Link3 |
 | ---- | ---- | ---- | ---- |
-| 1 | MERN Stack | [Link](https://github.com/kaweepong-m/cli-mern-workshop) |  |
+| 1 | MERN Stack | [Link1](https://github.com/kaweepong-m/cli-mern-workshop) | [Link2](https://github.com/kaweepong-m/api-mern-workshop) |  [Deploy](https://cli-mern-workshop.herokuapp.com/) | 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaweepong-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
