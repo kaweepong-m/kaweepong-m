@@ -13,7 +13,7 @@
 #### All Workshops
 | No. | Name | Link1 | Link2 |
 | ---- | ---- | ---- | ---- |
-| 1 | MERN Stack | [Link](https://github.com/kaweepong-m/Refrigerator) |  |
+| 1 | MERN Stack | [Link](https://github.com/kaweepong-m/cli-mern-workshop) |  |
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaweepong-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
